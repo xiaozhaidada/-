@@ -1,0 +1,6 @@
+Accuracy
+Params
+FLOPs
+Latency
+FPS
+Memory
